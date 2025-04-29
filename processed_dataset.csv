@@ -1,0 +1,8 @@
+CustomerID,Name,Age,Gender,AnnualIncome
+C001,Alice Smith,25.0,0,55000.0
+C002,Bob Johnson,32.5,1,62000.0
+C003,Charlie Lee,30.0,1,58000.0
+C004,Diana Adams,22.0,0,64666.666666666664
+C005,Evan Scott,45.0,0,75000.0
+C006,Fiona White,35.0,0,67000.0
+C007,George Baker,38.0,1,71000.0

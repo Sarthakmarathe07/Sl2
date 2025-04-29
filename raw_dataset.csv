@@ -1,0 +1,8 @@
+CustomerID,Name,Age,Gender,City,AnnualIncome,Purchased,Join_Date
+C001,Alice Smith,25.0,Female,New York,55000.0,Yes,2021-04-10
+C002,Bob Johnson,,Male,San Diego,62000.0,No,2020-12-15
+C003,Charlie Lee,30.0,Male,Los Angeles.,58000.0,Yes,2021-08-01
+C004,Diana Adams,22.0,Female,New York,,No,2022-01-05
+C005,Evan Scott,45.0,,Boston,75000.0,Yes,2021-03-20
+C006,Fiona White,35.0,Female,New York,67000.0,No,2021-01-07
+C007,George Baker,38.0,Male,Chicago,71000.0,Yes,2020-10-22

@@ -1,0 +1,9 @@
+id,text,Sentiment
+1,"I love this phone, it is fantastic and works great!",Positive
+2,This product is awful and is very disappointing,Negative
+3,"It's okay, nothing special",Neutral
+4,I am happy with the service,Positive
+5,Totally useless. It broke after one use.,Negative
+6,Excellent quality and speedy delivery,Positive
+7,Very helpful and friendly support team,Positive
+8,The item was damaged when it arrived,Negative
